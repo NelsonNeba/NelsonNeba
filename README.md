@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=F9FFFAFF&multiline=true&repeat=false&width=800&height=80&lines=%F0%9F%93%9D+Analytical+storyteller+passionate+about+turning+raw+data+into+impactful+business+insights.;%F0%9F%93%8A+Experienced+in+creating+compelling+dashboards+and+automating+reporting+pipelines.;%F0%9F%8E%AFCurrently+exploring%3A+Time+Intelligence+DAX+%26+Predictive+Modeling+with+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=F9FFFAFF&multiline=true&repeat=false&width=800&height=80&lines=%F0%9F%93%9D+Analytical+storyteller+passionate+about+turning+raw+data+into+impactful+business+insights.;%F0%9F%93%8A+Experienced+in+creating+compelling+dashboards+and+automating+reporting+pipelines.;%F0%9F%8E%AF+Currently+exploring%3A+Time+Intelligence+DAX+%26+Predictive+Modeling+with+Python)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin/in/nelson-neba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nelson.mforbi@gmail.com) 
