@@ -22,10 +22,10 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [📈 StyleScape Retail Dashboard](#) | Weekly sales dashboard for an African fashion mall; optimized KPI tracking | Power BI, SQL, DAX |
+| [📈 StyleScape Retail Dashboard](https://github.com/NelsonNeba/Performance-Dashboard-for-StyleScape-Fashion-Mall) | Weekly sales performance dashboard for an African fashion mall; optimized KPI tracking | Power BI, SQL, DAX |
 | [🔍 Customer Churn Prediction](#) | Built a model to identify tenants likely to churn using classification models | PostgreSql, PGAdmin |
 | [📦 Supply Chain Optimization](https://github.com/NelsonNeba/Supply-Chain-Optimization) | Automated inventory tracker to reduce stockouts | Excel, Power Pivot, Pivot Tables |
-| [🏠 Tenant Insights Platform](#) | Real estate dashboard for tenant retention & satisfaction analysis | Power BI, Excel, DAX |
+| [🏠 Tenant Insights Platform](https://github.com/NelsonNeba/Tenant-Retention-Optimization-HomeVibe-Properties) | Real estate dashboard for tenant retention & satisfaction analysis | Power BI, Excel, DAX |
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nelsonneba&limit=5&theme=dark&combine_all_yearly_contributions=true)
