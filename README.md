@@ -2,11 +2,11 @@
 
 Welcome to my GitHub! I am Nelson, a data analyst with a passion for uncovering insights and driving data-driven decision-making. Explore my work and see how I can help you leverage data to achieve your business goals.
 ---
-## 😎 About Me
+## **😎 About Me**
 
 With over 1 years of experience in data analysis, I have a proven track record of turning raw data into meaningful information. My analytical skills, combined with a deep understanding of various industries, allow me to provide valuable insights that drive business success.
 ---
-## 🛠️ Skills & Technologies
+## **🛠️ Skills & Technologies**
 ![Tools](https://i.postimg.cc/HW9nDq6T/tools.png)
 I leverage a robust set of tools and technologies to deliver comprehensive data solutions:
 
@@ -20,7 +20,7 @@ I leverage a robust set of tools and technologies to deliver comprehensive data 
 
 ---
 
-## 🚀 Featured Projects
+## **🚀 Featured Projects**
 
 Here are some highlights of my work, showcasing my ability to translate data into actionable insights and solutions:
 
@@ -41,7 +41,7 @@ Here are some highlights of my work, showcasing my ability to translate data int
     * Developed using Power BI, Excel, and DAX to provide actionable insights for property management.
 ---
 
-## 🎓 Certifications
+## **🎓 Certifications**
 
 My commitment to continuous learning is reflected in my professional certifications:
 
@@ -50,7 +50,7 @@ My commitment to continuous learning is reflected in my professional certificati
 
 ---
 
-## 🤝 Let's Connect!
+## **🤝 Let's Connect!**
 
 I'm always open to collaborating on interesting data projects and discussing new opportunities. Feel free to reach out!
 
