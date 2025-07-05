@@ -55,8 +55,8 @@ My commitment to continuous learning is reflected in my professional certificati
 I'm always open to collaborating on interesting data projects and discussing new opportunities. Feel free to reach out!
 
 * **GitHub:** [NelsonNeba](https://github.com/NelsonNeba)
-* **LinkedIn:** ![LinkedIn](https://www.linkedin.com/in/nelsonneba/)
-* **Email:** ![Email](mailto:nelson.mforbi@gmail.com)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nelsonneba/)
+* **Email:** [Email](mailto:nelson.mforbi@gmail.com)
 
 ## 🔥 Visitor Count
 
