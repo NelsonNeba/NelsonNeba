@@ -1,8 +1,8 @@
-# Nelson Neba - D A T A   A N A L Y S T
+# DATA ANALYST
 
 Welcome to my GitHub! I am Nelson, a data analyst with a passion for uncovering insights and driving data-driven decision-making. Explore my work and see how I can help you leverage data to achieve your business goals.
 ---
-## 🛠️ About Me
+## 😎 About Me
 
 With over 1 years of experience in data analysis, I have a proven track record of turning raw data into meaningful information. My analytical skills, combined with a deep understanding of various industries, allow me to provide valuable insights that drive business success.
 ---
@@ -39,13 +39,6 @@ Here are some highlights of my work, showcasing my ability to translate data int
 * **[Tenant Insights Platform](https://github.com/NelsonNeba/Tenant-Retention-Optimization-HomeVibe-Properties)**
     * Created a comprehensive real estate dashboard for in-depth tenant retention and satisfaction analysis.
     * Developed using Power BI, Excel, and DAX to provide actionable insights for property management.
----
-## 🎓 Services Offered
-* **What I Offer:**I provide a comprehensive range of data analysis services designed to help businesses harness the power of their data:
-* **Data Cleaning and Preparation:** Ensuring your data is accurate, consistent, and ready for analysis.
-* **Descriptive and Predictive Analysis:** Uncovering patterns and predicting future trends using statistical methods and machine learning.
-* **Data Visualization:** Creating clear and insightful visualizations to communicate findings effectively.
-* **Business Intelligence:** Developing dashboards and reports that provide real-time insights.
 ---
 
 ## 🎓 Certifications
