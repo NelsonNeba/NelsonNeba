@@ -7,7 +7,7 @@ Welcome to my GitHub! I am Nelson, a data analyst with a passion for uncovering 
 With over 1 years of experience in data analysis, I have a proven track record of turning raw data into meaningful information. My analytical skills, combined with a deep understanding of various industries, allow me to provide valuable insights that drive business success.
 ---
 ## 🛠️ Skills & Technologies
-![Tools]([https://github.com/NelsonNeba](https://drive.google.com/file/d/12U1J1umHotW5Sjj5DSzp0RZc-iopZZ1d/view?usp=sharing)
+![Tools]([https://github.com/NelsonNeba](https://drive.google.com/file/d/12U1J1umHotW5Sjj5DSzp0RZc-iopZZ1d/view)
 I leverage a robust set of tools and technologies to deliver comprehensive data solutions:
 
 * **Data Cleaning and Preparation** 
