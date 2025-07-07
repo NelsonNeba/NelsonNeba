@@ -8,7 +8,7 @@
 ---
 ## **🛠️ Skills & Technologies**
 ![Tools](https://i.postimg.cc/HW9nDq6T/tools.png)
-* I leverage a robust set of tools and technologies to deliver comprehensive data solutions:
+ I leverage a robust set of tools and technologies to deliver comprehensive data solutions:
 
 * **Data Cleaning and Preparation** 
 * **Databases:** PostgreSQL, MySQL
