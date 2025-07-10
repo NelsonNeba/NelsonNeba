@@ -1,58 +1,86 @@
-# DATA ANALYST
 
-* Welcome to my GitHub! I am Nelson, a data analyst with a passion for uncovering insights and driving data-driven decision-making. Explore my work and see how I can help you leverage data to achieve your business goals.
+## Data Analyst | Business Intelligence Specialist 
+
+👋 Welcome to my GitHub! I'm Nelson, an analytical storyteller passionate about transforming raw data into impactful business insights. My expertise lies in leveraging data to drive strategic decision-making, optimize business performance, and create compelling narratives from complex datasets.
+
+Currently, I'm deepening my skills in Time Intelligence DAX and exploring advanced Predictive Modeling techniques with Python.
+
 ---
-## **😎 About Me**
 
-* With over 1 years of experience in data analysis, I have a proven track record of turning raw data into meaningful information. My analytical skills, combined with a deep understanding of various industries, allow me to provide valuable insights that drive business success.
+##  About Me
+
+I thrive at the intersection of data and business strategy. My core strength is taking raw data, cleaning it, analyzing it, and then translating complex findings into clear, actionable recommendations for stakeholders. I am committed to continuous learning and applying cutting-edge analytical methods to real-world business problems.
+
 ---
-## **🛠️ Skills & Technologies**
-![Tools](https://i.postimg.cc/HW9nDq6T/tools.png)
- I leverage a robust set of tools and technologies to deliver comprehensive data solutions:
 
-* **Data Cleaning and Preparation** 
+## 🛠️ My Skillset
+
+My technical toolkit is geared towards comprehensive data analysis, automation and business intelligence solutions:
+
+* **Programming Languages:** R, Python (Pandas, Matplotlib, SciPy)
 * **Databases:** PostgreSQL, MySQL
-* **Business Intelligence & Visualization:** Power BI, Tableau, Excel (Power Pivot, Pivot Tables)
-* **Statistical Analysis** 
-* **Version Control:** GitHub, Visual studio code
-* **Development Environments:** Anaconda
-* **Design & Prototyping:** Figma
+* **Business Intelligence & Visualization:** Power BI, Microsoft Excel (Power Pivot, Pivot Tables)
+* **Version Control:** GitHub, visual Studio Code
+* **Development Environments:** Anaconda, visual Studio Code
+* **Automation:** Power Apps
+* **Design & Prototyping:** Figma (for dashboard wireframing and UI/UX planning)
+![Tools](https://i.postimg.cc/HW9nDq6T/tools.png)
 
 ---
 
-## **🚀 Featured Projects**
+## 💼 Featured Projects
 
-Here are some highlights of my work, showcasing my ability to translate data into actionable insights and solutions:
+Here are some of my key projects that demonstrate my analytical capabilities and technical skills:
 
-* **[StyleScape Retail Dashboard](https://github.com/NelsonNeba/Performance-Dashboard-for-StyleScape-Fashion-Mall)**
-    * Developed a weekly sales performance dashboard for an African fashion mall.
-    * Optimized Key Performance Indicator (KPI) tracking using Power BI, SQL, and DAX, leading to improved sales strategies.
+### 1. 👗 Sales Excellence in Style: Performance Dashboard for StyleScape Fashion Mall
+* **Problem:** Manual, numeric-heavy sales reports hindering strategic decision-making for an African fashion mall.
+* **Solution:** Developed an **automated, interactive weekly sales performance dashboard** using Power BI, SQL, and DAX.
+* [cite_start]**Impact:** Optimized KPI tracking and enabled strategic decision-making[cite: 1].
+* **Key Learnings:** Mastery of DAX, data visualization, data modeling, and report automation.
 
-* **[Customer Churn Prediction](https://github.com/NelsonNeba/Capstone-Project)**
-    * Built a predictive model to identify tenants at high risk of churn.
-    * Utilized classification models with PostgreSQL and PGAdmin to enhance tenant retention efforts.
+### 2. 🏘️ Tenant Retention Optimization Dashboard
+* **Problem:** High tenant churn rates and limited insights into tenant behavior for a residential real estate company.
+* **Solution:** Designed an **interactive Power BI dashboard** to analyze historical tenant data, uncover churn patterns, and optimize lease renewals.
+* [cite_start]**Impact:** Provides actionable insights into seasonal churn trends (e.g., April and August spikes), lease term preferences, and the direct correlation between tenant satisfaction and retention[cite: 1].
+* **Key Learnings:** End-to-end data analytics pipeline design, dynamic visualization, and strategic recommendation generation.
 
-* **[Supply Chain Optimization](https://github.com/NelsonNeba/Supply-Chain-Optimization)**
-    * Implemented an automated inventory tracker to significantly reduce stockouts and improve operational efficiency.
-    * Leveraged Excel, Power Pivot, and Pivot Tables for robust supply chain management.
+### 3. 🏥 Hospital Patient Management Analysis
+* **Problem:** Need for an efficient system to streamline patient record-keeping, track appointments, and analyze hospital performance.
+* [cite_start]**Solution:** Designed and implemented a **relational database in PostgreSQL** to store and analyze patient, doctor, and medical records[cite: 1].
+* **Impact:** Enables tracking of treatment history, analysis of patient demographics, disease prevalence, and doctor performance. [cite_start]Facilitates insights into average hospital stay duration and common diagnoses[cite: 1].
+* **Key Learnings:** Database schema design, advanced SQL querying for analytical insights, and foundational data management principles.
 
-* **[Tenant Insights Platform](https://github.com/NelsonNeba/Tenant-Retention-Optimization-HomeVibe-Properties)**
-    * Created a comprehensive real estate dashboard for in-depth tenant retention and satisfaction analysis.
-    * Developed using Power BI, Excel, and DAX to provide actionable insights for property management.
+### 4. 📊 Tailwind Traders Business Analytics (Power BI Capstone)
+* **Problem:** A multinational retail company requiring advanced analytics for sales, inventory, profitability, and customer loyalty.
+* **Solution:** Developed a comprehensive Power BI dashboard as a capstone project, demonstrating expertise in ETL processes, star schema data modeling, and advanced DAX programming.
+* **Impact:** Provides insights into top-performing products, regional profitability (e.g., UAE's highest median sales), and customer loyalty. [cite_start]Includes automated alerts and subscriptions for monitoring[cite: 1].
+* **Key Learnings:** End-to-end Power BI implementation, complex DAX for time intelligence and currency conversion, and visual storytelling.
+
 ---
 
-## **🎓 Certifications**
+## 🎓 Certifications
 
-My commitment to continuous learning is reflected in my professional certifications:
+My foundational knowledge is backed by industry-recognized certifications:
 
 * **Microsoft Power BI Data Analyst Certificate**
 * **Google Data Analytics Professional Certificate**
 
 ---
 
-## **🤝 Let's Connect!**
+## 🌱 Continuous Learning & Interests
 
-I'm always open to collaborating on interesting data projects and discussing new opportunities. Feel free to reach out!
+I am always keen to learn new technologies and explore emerging trends in data analytics. My current areas of focus include:
+
+* Advanced Time Intelligence functions in DAX for deeper trend analysis.
+* Implementing Predictive Modeling techniques (e.g., Regression, Classification) using Python for forecasting and anomaly detection.
+* Exploring cloud data warehousing solutions (e.g., Azure Synapse, Google BigQuery) for scalable data platforms.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting data projects, discussing new opportunities, or sharing insights. Feel free to connect with me:
+
 
 * **GitHub:** [NelsonNeba](https://github.com/NelsonNeba)
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nelsonneba/)
@@ -62,5 +90,4 @@ I'm always open to collaborating on interesting data projects and discussing new
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nelsonneba.nelsonneba)
 
-
-
+---
