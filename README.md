@@ -38,26 +38,26 @@ Here are some of my key projects that demonstrate my analytical capabilities and
 * **Impact:** Optimized KPI tracking and enabled strategic decision-making.
 * **Key Learnings:** Mastery of DAX, data visualization, data modeling, and report automation.
 
-### 2. 🏘️ Tenant Retention Optimization Dashboard
-* **Repository:** [Tenant-Retention-Optimization-HomeVibe-Properties](https://github.com/NelsonNeba/Tenant-Retention-Optimization-HomeVibe-Properties)
-* **Problem:** High tenant churn rates and limited insights into tenant behavior for a residential real estate company.
-* **Solution:** Designed an **interactive Power BI dashboard** to analyze historical tenant data, uncover churn patterns, and optimize lease renewals.
-* **Impact:** Provides actionable insights into seasonal churn trends (e.g., April and August spikes), lease term preferences, and the direct correlation between tenant satisfaction and retention.
-* **Key Learnings:** End-to-end data analytics pipeline design, dynamic visualization, and strategic recommendation generation.
+### 2. 🏥 Healthcare Analytics Power BI Dashboard
+* **Repository:** [Healthcare-Analytics-PowerBI-Dashboard](https://github.com/NelsonNeba/Healthcare-Analytics-PowerBI-Dashboard)
+* **Problem:** Need for critical insights into patient demographics, medical conditions, and operational/financial performance within a healthcare setting.
+* **Solution:** Developed a **comprehensive and interactive Power BI dashboard** leveraging a detailed dataset of patient records. Included advanced data preparation with Power Query, a Star Schema data model, and robust DAX measures.
+* **Impact:** Empowers healthcare stakeholders (administrators, medical directors) to make data-driven decisions for improved operational efficiency and financial performance.
+* **Key Learnings:** Best practices in healthcare data modeling (Star Schema), advanced Power Query (M Language), and creation of complex DAX KPIs for core performance and year-over-year growth.
 
-### 3. 🏥 Hospital Patient Management Analysis
-* **Repository:** [Hospital-Patient-Management-Analysis](https://github.com/NelsonNeba/Hospital-Patient-Management-Analysis)
-* **Problem:** Need for an efficient system to streamline patient record-keeping, track appointments, and analyze hospital performance.
-* **Solution:** Designed and implemented a **relational database in PostgreSQL** to store and analyze patient, doctor, and medical records.
-* **Impact:** Enables tracking of treatment history, analysis of patient demographics, disease prevalence, and doctor performance. Facilitates insights into average hospital stay duration and common diagnoses.
-* **Key Learnings:** Database schema design, advanced SQL querying for analytical insights, and foundational data management principles.
+### 3. 🛋️ Furniture Sales Performance Dashboard (Excel)
+* **Repository:** [Furniture-Sales-Performance-Dashboard](https://github.com/NelsonNeba/Furniture-Sales-Performance-Dashboard)
+* **Problem:** Lack of real-time insights into U.S. furniture sales performance, hindering data-driven decision-making.
+* **Solution:** Created an **interactive Excel dashboard** for end-to-end data analysis, covering data cleaning (Power Query), pivot tables/charts, and dynamic filtering.
+* **Impact:** Provides clear answers to business questions on sales, profit, and quantity trends; identifies top-performing regions/products/segments; and highlights critical profit drops for investigation.
+* **Key Learnings:** Excel-based dashboard development, Power Query for data preparation, analyzing profitability challenges despite increased sales, and identifying peak/low sales periods.
 
-### 4. 📊 Tailwind Traders Business Analytics (Power BI Capstone)
-* **Repository:** [Capstone-Project](https://github.com/NelsonNeba/Capstone-Project)
-* **Problem:** A multinational retail company requiring advanced analytics for sales, inventory, profitability, and customer loyalty.
-* **Solution:** Developed a comprehensive Power BI dashboard as a capstone project, demonstrating expertise in ETL processes, star schema data modeling, and advanced DAX programming.
-* **Impact:** Provides insights into top-performing products, regional profitability (e.g., UAE's highest median sales), and customer loyalty. Includes automated alerts and subscriptions for monitoring.
-* **Key Learnings:** End-to-end Power BI implementation, complex DAX for time intelligence and currency conversion, and visual storytelling.
+### 4. 🎓 Investigating JAMB Failure Rates and Predicting Future Performance Trends
+* **Repository:** [Investigating-JAMB-Failure-Rates-and-Predicting-Future-Performance-Trends--2020-2030--in-Nigeria](https://github.com/NelsonNeba/Investigating-JAMB-Failure-Rates-and-Predicting-Future-Performance-Trends--2020-2030--in-Nigeria)
+* **Problem:** Addressing the concerning increase in student failure rates in Nigeria's JAMB examination.
+* **Solution:** Conducted a data-driven investigation using survey data (2020-2025), processed data (standardization, feature engineering), and applied predictive modeling (Random Forest) and linear regression for forecasting.
+* **Impact:** Identified root causes of failure (e.g., study habits, CBT familiarity, socio-economic factors) and provided actionable, evidence-based recommendations for students, educators, and policymakers.
+* **Key Learnings:** Applied machine learning for educational outcome prediction, identified strong correlations between study habits/resource access and performance, and forecasted future trends to inform policy.
 
 
 
