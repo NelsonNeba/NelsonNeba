@@ -3,7 +3,6 @@
 
 👋 Welcome to my GitHub! I'm Nelson, an analytical storyteller passionate about transforming raw data into impactful business insights. My expertise lies in leveraging data to drive strategic decision-making, optimize business performance, and create compelling narratives from complex datasets.
 
-Currently, I'm deepening my skills in Time Intelligence DAX and exploring advanced Predictive Modeling techniques with Python.
 
 ---
 
@@ -11,7 +10,7 @@ Currently, I'm deepening my skills in Time Intelligence DAX and exploring advanc
 
 I thrive at the intersection of data and business strategy. My core strength is taking raw data, cleaning it, analyzing it, and then translating complex findings into clear, actionable recommendations for stakeholders. I am committed to continuous learning and applying cutting-edge analytical methods to real-world business problems.
 
----
+
 
 ## 🛠️ My Skillset
 
@@ -26,7 +25,7 @@ My technical toolkit is geared towards comprehensive data analysis, automation a
 * **Design & Prototyping:** Figma (for dashboard wireframing and UI/UX planning)
 ![Tools](https://i.postimg.cc/HW9nDq6T/tools.png)
 
----
+
 
 ## 💼 Featured Projects
 
@@ -60,16 +59,7 @@ Here are some of my key projects that demonstrate my analytical capabilities and
 * **Impact:** Provides insights into top-performing products, regional profitability (e.g., UAE's highest median sales), and customer loyalty. Includes automated alerts and subscriptions for monitoring.
 * **Key Learnings:** End-to-end Power BI implementation, complex DAX for time intelligence and currency conversion, and visual storytelling.
 
----
 
-## 🎓 Certifications
-
-My foundational knowledge is backed by industry-recognized certifications:
-
-* **Microsoft Power BI Data Analyst Certificate**
-* **Google Data Analytics Professional Certificate**
-
----
 
 ## 🌱 Continuous Learning & Interests
 
@@ -79,7 +69,6 @@ I am always keen to learn new technologies and explore emerging trends in data a
 * Implementing Predictive Modeling techniques (e.g., Regression, Classification) using Python for forecasting and anomaly detection.
 * Exploring cloud data warehousing solutions (e.g., Azure Synapse, Google BigQuery) for scalable data platforms.
 
----
 
 ## 🤝 Let's Connect!
 
@@ -94,4 +83,4 @@ I'm always open to collaborating on interesting data projects, discussing new op
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nelsonneba.nelsonneba)
 
----
+
