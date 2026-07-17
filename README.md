@@ -163,7 +163,37 @@ Analyzed a Portuguese bank's direct marketing campaign to predict term deposit s
 ```
 
 ---
+## 📈 Contribution Activity
 
+<div align="center">
+
+<!-- Animated contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NelsonNeba/NelsonNeba/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NelsonNeba/NelsonNeba/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/NelsonNeba/NelsonNeba/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NelsonNeba&theme=react-dark&bg_color=0d1117&color=0066ff&line=00c6ff&point=ffffff&hide_border=true&area=true&area_color=0066ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NelsonNeba&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NelsonNeba&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NelsonNeba&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NelsonNeba&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NelsonNeba&theme=tokyonight&utcOffset=1" />
+</div>
+
+---
+
+<div align="center">
 
 
 ### 🤝 Let's Build Something with Data
