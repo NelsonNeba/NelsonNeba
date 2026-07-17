@@ -176,9 +176,6 @@ Analyzed a Portuguese bank's direct marketing campaign to predict term deposit s
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NelsonNeba&theme=react-dark&bg_color=0d1117&color=0066ff&line=00c6ff&point=ffffff&hide_border=true&area=true&area_color=0066ff" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NelsonNeba&theme=tokyonight" />
